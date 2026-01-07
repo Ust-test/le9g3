@@ -1,3 +1,10 @@
+
+.header{
+    background-color: plum;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+}
 .content{
     background-color: cyan;
     height: 200px;
